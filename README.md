@@ -6,14 +6,11 @@ This project implements a Deep Knowledge Tracing model using LSTM to predict stu
 
 ## Project Summary
 
-**Task:**  
-Model students' knowledge state by predicting their correctness on future questions based on their previous performance.
+**Task:**  Model students' knowledge state by predicting their correctness on future questions based on their previous performance.
 
-**Model:**  
-Ensemble Deep Knowledge Tracing (LSTM-based)
+**Model:**  Ensemble Deep Knowledge Tracing (LSTM-based)
 
-**Evaluation Metric:**  
-AUC (Area Under the ROC Curve)
+**Evaluation Metric:**  AUC (Area Under the ROC Curve)
 
 
 
