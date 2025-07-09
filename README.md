@@ -1,4 +1,4 @@
-# Ensemble-Knowledge-Tracing 
+# 🧩Ensemble-Knowledge-Tracing 
 
 This project implements a Deep Knowledge Tracing model using LSTM to predict students’ future performance based on their historical interactions with problems.
 
@@ -41,13 +41,15 @@ This script splits the dataset into **training** and **testing** sets and saves 
 
 ## Model Structure
 
-![frame](H:\work\master_thesis\frame.png)
+![frame](https://github.com/user-attachments/assets/1a7669b1-cea6-4e1f-9f8c-741962f3719f)
+
 
 **Fig. 1.** Overview of the Dual-LSTM Knowledge Tracing Framework with Ensemble Voting. The model processes both exercise sequence and behavior feature data through two separate LSTM structures, and combines their outputs via a weighted ensemble.
 
 
 
-![frame2](H:\work\master_thesis\frame2.png)
+![frame2](https://github.com/user-attachments/assets/5a7a21eb-73df-4d91-b9f2-a0141df5a2ee)
+
 
 **Fig. 2.** Embedding Layer and Sequential Processing in LSTM
 
