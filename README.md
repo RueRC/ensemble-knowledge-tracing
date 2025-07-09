@@ -48,7 +48,7 @@ This script splits the dataset into **training** and **testing** sets and saves 
 
 **Fig. 1.** Overview of the Dual-LSTM Knowledge Tracing Framework with Ensemble Voting. The model processes both exercise sequence and behavior feature data through two separate LSTM structures, and combines their outputs via a weighted ensemble.
 
-<br><br>
+<br>
 
 <img src="https://github.com/user-attachments/assets/5a7a21eb-73df-4d91-b9f2-a0141df5a2ee" alt="frame2" width="700" />
 
